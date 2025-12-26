@@ -4,3 +4,5 @@ This database manages the complex network of drones, customer interactions, deli
 The database, implemented in MySQL, supports a variety of basic and advanced queries for various functionalities such as finding customers who left good reviews and setting drones with low batteries to charge, all while maintaining database integrity the accuracy, consistency, and completeness of data.
 
 The E-R diagram of the database is displayed below.
+
+![E-R diagram of the database](https://github.com/Ayk-12/drone-delivery-database/blob/main/E-R%20Diagram.jpg)
